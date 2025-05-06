@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Veronika
-### **AI/ML Engineer | Python Developer **  
+### **AI/ML Engineer | Python Developer**  
 
 🎓 **4th-year AI & Machine Learning student** at [RTU MIREA](https://www.mirea.ru/)  
 💻 **Coding & Algorithms** at [School 21](https://21-school.ru/) (since 2023)  
