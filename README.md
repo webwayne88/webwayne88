@@ -62,5 +62,5 @@
 ---
 
 📫 **Let’s connect**:  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/cathicol])
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cathicol)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:ver-ver.gubanova@yandex.ru) 
